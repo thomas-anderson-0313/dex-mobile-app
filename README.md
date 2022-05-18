@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://github.com/galaxy-foundation/desocial_media.git
+https://github.com/thomas-anderson-0313/dex-mobile-app.git
 
 ## How to use?
 
@@ -28,8 +28,8 @@ yarn install
 ## Support
 
 In case of any questions or problems, please contact me at:
-[galaxy126a@gmail.com](mailto:galaxy126a@gmail.com)
+[thomasanderson19960313@gmail.com](mailto:thomasanderson19960313@gmail.com)
 
 ### Happy Coding 🚀
 
-### [Galaxy.foundation](https://galaxy.foundation/)
+### [Thomas Anderson](https://developmentservice.vercel.app/)
